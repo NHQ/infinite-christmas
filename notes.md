@@ -19,10 +19,10 @@
 * easily addressable
 * payment rec't verification
 * can form peer node swarms, similar to a mining pool 
-* possible built-in referal payment system for open affiliations and automatic incentive for infinte blob increase[1]()
+* possible built-in referal payment system for open affiliations and automatic incentive for infinte blob increase[1]
 * is a tracker?  This would increase public torrent trackers by a lot.
 
-1 the module gets a list of addresses it must pay and how much, and so do they, so there...
+1- the module user gets a list of addresses it must pay and how much; each node also recieves notice; 
 
 ## user module
 
@@ -30,7 +30,9 @@
 * A galore of DIY storage parameters
 * can set password, what about key encryption?
 * can set domain specific access?
+* can bundle files in single torrent e.g. for one whole webpage or app
 * usable independently, in own subnets, anonymously?, etc
+* can send bitcoin to automatically-created wallet which will dispense when billed by system
 
 ## payment
 
