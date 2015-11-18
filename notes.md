@@ -6,24 +6,34 @@
 * is a tracker?
 * interface for picking nodes by stats and metadata, with a downloadable module configuration
 * bespoke svg map picker now, peermaps later?
-* charges nodes to list; bundles optimized, balanced, reliable nodes
+
+#### makes money how?
+
+* charges nodes to list 
+* bundles optimized, balanced, reliable nodes for referral 
+* operates the most expensive swarm
 
 ## provider nodes
 
-* can set own prices, and publicize some small amount of advertisement in metadata
+* can set own prices, and publicize some small amount of advertisement in metadata for open marketses.
 * easily addressable
-* can form peer node mafias, similar to a mining pool 
-* possible built-in referal payment system for open affiliations and automatic incentive for infinte blob increase
+* payment rec't verification
+* can form peer node swarms, similar to a mining pool 
+* possible built-in referal payment system for open affiliations and automatic incentive for infinte blob increase[1]()
 * is a tracker?  This would increase public torrent trackers by a lot.
+
+1 the module gets a list of addresses it must pay and how much, and so do they, so there...
 
 ## user module
 
-* preconfigures methods 
+* preconfigured helper methods
+* A galore of DIY storage parameters
 * can set password, what about key encryption?
-* can be used independently, in own subnets, etc
+* can set domain specific access?
+* usable independently, in own subnets, anonymously?, etc
 
 ## payment
 
-* direct payments from users to node operators and node headquarters: where all the lil nodes do the real work behind santa segfault as a service's INFINITE.CHRISTMAS
+* direct payments from users to node operators, and to node headquarters: where all the lil' nodes do the real work behind Santa Segfault-as-a-Service's INFINITE.CHRISTMAS
 
 
