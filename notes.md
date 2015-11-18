@@ -1,7 +1,6 @@
 ## central service
 
-* distributes hash table :\
-* recieves log data 
+* recieves log data from nodes 
 * sorts providers by various stats and metadata
 * is a tracker?
 * interface for picking nodes by stats and metadata, with a downloadable module configuration
