@@ -14,8 +14,7 @@
 
 ## provider nodes
 
-* can set own prices, and publicize some small amount of advertisement in metadata for open marketses.
-* easily addressable
+* can set own prices
 * payment rec't verification
 * can form peer node swarms, similar to a mining pool 
 * possible built-in referal payment system for open affiliations and automatic incentive for infinte blob increase[1]
@@ -32,6 +31,7 @@
 * can bundle files in single torrent e.g. for one whole webpage or app
 * usable independently, in own subnets, anonymously?, etc
 * can send bitcoin to automatically-created wallet which will dispense when billed by system
+* may form friendly botnets
 
 ## payment
 
