@@ -19,6 +19,7 @@
 * can form peer node swarms, similar to a mining pool 
 * possible built-in referal payment system for open affiliations and automatic incentive for infinte blob increase[1]
 * is a tracker?  This would increase public torrent trackers by a lot.
+* gzip
 
 1- the module user gets a list of addresses it must pay and how much; each node also recieves notice; 
 
